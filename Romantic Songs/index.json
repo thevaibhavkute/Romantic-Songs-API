@@ -1590,8 +1590,18 @@
         ],
     "link":"https://www.youtube.com/watch?v=_v_dIY-j2w0"
     },
-
-
+  {
+     "id":28,
+     "name":"Fitoor",
+     "lyrics":"https://www.ilyricshub.com/fitoor-shamshera/",
+     "album":"Shamshera",
+     "Duration":"3 min 24 sec",
+     "singer":[
+	"Arijit Singh",
+	"Neeti Mohan",
+     ],
+     "link":"https://youtu.be/hdNg1TAtAHg"
+  },
     {
        "id":29,
        "name":"Umbrealla",
